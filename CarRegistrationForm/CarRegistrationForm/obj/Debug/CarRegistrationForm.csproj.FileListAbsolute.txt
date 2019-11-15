@@ -1,0 +1,10 @@
+C:\Users\0836092\source\repos\CarRegistrationForm\CarRegistrationForm\bin\Debug\CarRegistrationForm.exe.config
+C:\Users\0836092\source\repos\CarRegistrationForm\CarRegistrationForm\bin\Debug\CarRegistrationForm.exe
+C:\Users\0836092\source\repos\CarRegistrationForm\CarRegistrationForm\bin\Debug\CarRegistrationForm.pdb
+C:\Users\0836092\source\repos\CarRegistrationForm\CarRegistrationForm\obj\Debug\CarRegistrationForm.csprojAssemblyReference.cache
+C:\Users\0836092\source\repos\CarRegistrationForm\CarRegistrationForm\obj\Debug\CarRegistrationForm.Form1.resources
+C:\Users\0836092\source\repos\CarRegistrationForm\CarRegistrationForm\obj\Debug\CarRegistrationForm.Properties.Resources.resources
+C:\Users\0836092\source\repos\CarRegistrationForm\CarRegistrationForm\obj\Debug\CarRegistrationForm.csproj.GenerateResource.cache
+C:\Users\0836092\source\repos\CarRegistrationForm\CarRegistrationForm\obj\Debug\CarRegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\0836092\source\repos\CarRegistrationForm\CarRegistrationForm\obj\Debug\CarRegistrationForm.exe
+C:\Users\0836092\source\repos\CarRegistrationForm\CarRegistrationForm\obj\Debug\CarRegistrationForm.pdb
